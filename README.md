@@ -31,7 +31,7 @@
 - **You must not change:** environment dynamics, execution-time observations, official `run_episode()`/`evaluate()` functions, evaluation seeds, or metric definitions.
 - **Pretrained weights:** weights from outside the notebook are prohibited **except the provided Base Policy**, which may be used as an opponent or for initialization.
 
-## Subtask A submission — 8 Dec 2026, 23:59 ICT
+## Subtask A submission — 8 Dec 2026
 
 **Submit both the saved Kaggle version links and the required output files.** For each notebook, select **Save Version → Save & Run All (Commit)**, wait until the run finishes successfully, and verify that the training/evaluation outputs and exported models are present. **Quick Save or a draft link alone is not accepted.**
 
