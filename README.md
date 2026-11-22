@@ -4,10 +4,10 @@
 
 | Resource | Link |
 |---|---|
-| Value-based notebook (VDN starter) | **TODO: Add Kaggle notebook URL** |
-| Policy-based notebook (MAPPO starter) | **TODO: Add Kaggle notebook URL** |
-| Battle-Zones environment / dataset | **TODO: Add Kaggle Dataset URL** |
-| Staff Base Policy (`base_policy_hard.pt`) | **TODO: Add Kaggle Model/Dataset URL** |
+| Value-based notebook (VDN starter) | **https://www.kaggle.com/code/kimanh2002/value-based-baseline** |
+| Policy-based notebook (MAPPO starter) | **https://www.kaggle.com/code/kimanh2002/policy-based-baseline** |
+| Battle-Zones environment / dataset | **https://www.kaggle.com/datasets/kimanh2002/battle-zones/data** |
+| Staff Base Policy (`base_policy_hard.pt`) | **https://www.kaggle.com/models/kimanh2002/base-policy/** |
 
 ## What you must do
 
